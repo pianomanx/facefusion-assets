@@ -3,8 +3,6 @@ FaceFusion Assets
 
 > Next generation face swapper and enhancer.
 
-Our project is released under the MIT license. It is worth mentioning that the assets we utilize come with their own individual licenses.
-
 
 Models
 ------
