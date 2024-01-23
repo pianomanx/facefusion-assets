@@ -27,10 +27,11 @@ Models
 | [real_esrgan_x2plus.pth](https://github.com/facefusion/facefusion-assets/releases/download/models/real_esrgan_x2plus.pth)             | xinntao       | ![license](https://img.shields.io/badge/license-BSD_3--Clause-blue.svg) |
 | [real_esrgan_x4plus.pth](https://github.com/facefusion/facefusion-assets/releases/download/models/real_esrgan_x4plus.pth)             | xinntao       | ![license](https://img.shields.io/badge/license-BSD_3--Clause-blue.svg) |
 | [real_esrnet_x4plus.pth](https://github.com/facefusion/facefusion-assets/releases/download/models/real_esrnet_x4plus.pth)             | xinntao       | ![license](https://img.shields.io/badge/license-BSD_3--Clause-blue.svg) |
-| [restoreformer_plus_plus.onnx](https://github.com/facefusion/facefusion-assets/releases/download/models/restoreformer_plus_plus.onnx) | netrunner.exe  | ![license](https://img.shields.io/badge/license-Apache_2.0-green.svg)   |
+| [restoreformer_plus_plus.onnx](https://github.com/facefusion/facefusion-assets/releases/download/models/restoreformer_plus_plus.onnx) | netrunner.exe | ![license](https://img.shields.io/badge/license-Apache_2.0-green.svg)   |
 | [retinaface_10g.onnx ](https://github.com/facefusion/facefusion-assets/releases/download/models/retinaface_10g.onnx)                  | InsightFace   | ![license](https://img.shields.io/badge/license-non_commercial-red)     |
 | [simswap_256.onnx](https://github.com/facefusion/facefusion-assets/releases/download/models/simswap_256.onnx)                         | netrunner.exe | ![license](https://img.shields.io/badge/license-non_commercial-red)     |
 | [simswap_512_unofficial.onnx](https://github.com/facefusion/facefusion-assets/releases/download/models/simswap_512_unofficial.onnx)   | netrunner.exe | ![license](https://img.shields.io/badge/license-non_commercial-red)     |
+| [yoloface_8n](https://github.com/facefusion/facefusion-assets/releases/download/models/yoloface_8n.onnx)                              | tamoharu      | ![license](https://img.shields.io/badge/license-GPLv3-blue)             |
 | [yunet_2023mar.onnx](https://github.com/facefusion/facefusion-assets/releases/download/models/yunet_2023mar.onnx)                     | opencv        | ![license](https://img.shields.io/badge/license-BSD_3--Clause-blue.svg) |
 
 
