@@ -40,6 +40,7 @@ Examples
 | file                                                                                                            | source                 | license                                                            |
 |-----------------------------------------------------------------------------------------------------------------|------------------------|--------------------------------------------------------------------|
 | [source.jpg](https://github.com/facefusion/facefusion-assets/releases/download/examples/source.jpg)             | thispersondoesnotexist | ![license](https://img.shields.io/badge/license-free_to_use-green) |
+| [source.mp3](https://github.com/facefusion/facefusion-assets/releases/download/examples/source.mp3)             | elevenlabs             | ![license](https://img.shields.io/badge/license-free_to_use-green) |
 | [target-240p.mp4](https://github.com/facefusion/facefusion-assets/releases/download/examples/target-240p.mp4)   | pexels                 | ![license](https://img.shields.io/badge/license-free_to_use-green) |
 | [target-360p.mp4](https://github.com/facefusion/facefusion-assets/releases/download/examples/target-360p.mp4)   | pexels                 | ![license](https://img.shields.io/badge/license-free_to_use-green) |
 | [target-540p.mp4](https://github.com/facefusion/facefusion-assets/releases/download/examples/target-540p.mp4)   | pexels                 | ![license](https://img.shields.io/badge/license-free_to_use-green) |
