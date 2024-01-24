@@ -7,7 +7,7 @@ FaceFusion Assets
 Models
 ------
 
-| file                                                                                                                                  | source        | license                                                                 |
+| File                                                                                                                                  | Source        | License                                                                 |
 |---------------------------------------------------------------------------------------------------------------------------------------|---------------|-------------------------------------------------------------------------|
 | [arcface_simswap.onnx](https://github.com/facefusion/facefusion-assets/releases/download/models/arcface_simswap.onnx)                 | harisreedhar  | ![license](https://img.shields.io/badge/license-non_commercial-red)     |
 | [arcface_w600k_r50.onnx](https://github.com/facefusion/facefusion-assets/releases/download/models/arcface_w600k_r50.onnx)             | InsightFace   | ![license](https://img.shields.io/badge/license-non_commercial-red)     |
@@ -38,7 +38,7 @@ Models
 Examples
 --------
 
-| file                                                                                                            | source                 | license                                                            |
+| File                                                                                                            | Source                 | License                                                            |
 |-----------------------------------------------------------------------------------------------------------------|------------------------|--------------------------------------------------------------------|
 | [source.jpg](https://github.com/facefusion/facefusion-assets/releases/download/examples/source.jpg)             | thispersondoesnotexist | ![license](https://img.shields.io/badge/license-free_to_use-green) |
 | [source.mp3](https://github.com/facefusion/facefusion-assets/releases/download/examples/source.mp3)             | elevenlabs             | ![license](https://img.shields.io/badge/license-free_to_use-green) |
