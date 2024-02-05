@@ -9,6 +9,7 @@ Models
 
 | File                                                                                                                                  | Source        | License                                                                 |
 |---------------------------------------------------------------------------------------------------------------------------------------|---------------|-------------------------------------------------------------------------|
+| [2dfan2.onnx](https://github.com/facefusion/facefusion-assets/releases/download/models/2dfan2.onnx)                                   | harisreedhar  | ![license](https://img.shields.io/badge/license-MIT-green.svg)          |
 | [arcface_simswap.onnx](https://github.com/facefusion/facefusion-assets/releases/download/models/arcface_simswap.onnx)                 | harisreedhar  | ![license](https://img.shields.io/badge/license-non_commercial-red)     |
 | [arcface_w600k_r50.onnx](https://github.com/facefusion/facefusion-assets/releases/download/models/arcface_w600k_r50.onnx)             | InsightFace   | ![license](https://img.shields.io/badge/license-non_commercial-red)     |
 | [blendswap_256.onnx](https://github.com/facefusion/facefusion-assets/releases/download/models/blendswap_256.onnx)                     | netrunner.exe | ![license](https://img.shields.io/badge/license-non_commercial-red)     |
@@ -31,7 +32,8 @@ Models
 | [retinaface_10g.onnx ](https://github.com/facefusion/facefusion-assets/releases/download/models/retinaface_10g.onnx)                  | InsightFace   | ![license](https://img.shields.io/badge/license-non_commercial-red)     |
 | [simswap_256.onnx](https://github.com/facefusion/facefusion-assets/releases/download/models/simswap_256.onnx)                         | netrunner.exe | ![license](https://img.shields.io/badge/license-non_commercial-red)     |
 | [simswap_512_unofficial.onnx](https://github.com/facefusion/facefusion-assets/releases/download/models/simswap_512_unofficial.onnx)   | netrunner.exe | ![license](https://img.shields.io/badge/license-non_commercial-red)     |
-| [yoloface_8n](https://github.com/facefusion/facefusion-assets/releases/download/models/yoloface_8n.onnx)                              | tamoharu      | ![license](https://img.shields.io/badge/license-GPLv3-blue)             |
+| [wav2lip_gan.onnx](https://github.com/facefusion/facefusion-assets/releases/download/models/wav2lip_gan.onnx)                         | harisreedhar  | ![license](https://img.shields.io/badge/license-non_commercial-red)     |
+| [yoloface_8n.onnx](https://github.com/facefusion/facefusion-assets/releases/download/models/yoloface_8n.onnx)                         | tamoharu      | ![license](https://img.shields.io/badge/license-GPLv3-blue)             |
 | [yunet_2023mar.onnx](https://github.com/facefusion/facefusion-assets/releases/download/models/yunet_2023mar.onnx)                     | opencv        | ![license](https://img.shields.io/badge/license-BSD_3--Clause-blue.svg) |
 
 
