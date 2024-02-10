@@ -9,7 +9,7 @@ Models
 
 | File                                                                                                                                  | Source        | License                                                                 |
 |---------------------------------------------------------------------------------------------------------------------------------------|---------------|-------------------------------------------------------------------------|
-| [2dfan4.onnx](https://github.com/facefusion/facefusion-assets/releases/download/models/2dfan4.onnx)                                   | harisreedhar  | ![license](https://img.shields.io/badge/license-MIT-green.svg)          |
+| [2dfan4.onnx](https://github.com/facefusion/facefusion-assets/releases/download/models/2dfan4.onnx)                                   | PINTO0309     | ![license](https://img.shields.io/badge/license-MIT-green.svg)          |
 | [arcface_simswap.onnx](https://github.com/facefusion/facefusion-assets/releases/download/models/arcface_simswap.onnx)                 | harisreedhar  | ![license](https://img.shields.io/badge/license-non_commercial-red)     |
 | [arcface_w600k_r50.onnx](https://github.com/facefusion/facefusion-assets/releases/download/models/arcface_w600k_r50.onnx)             | InsightFace   | ![license](https://img.shields.io/badge/license-non_commercial-red)     |
 | [blendswap_256.onnx](https://github.com/facefusion/facefusion-assets/releases/download/models/blendswap_256.onnx)                     | netrunner.exe | ![license](https://img.shields.io/badge/license-non_commercial-red)     |
